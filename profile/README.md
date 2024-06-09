@@ -1,13 +1,19 @@
 # About
 
 As advocates of open-source software (OSS), we support
-[QGIS](https://qgis.org/en/site/about/sustaining_members.html), the
-[Julia programming language](https://github.com/sponsors/julialang), the
-[R Foundation](https://www.r-project.org/foundation/) and the
-[FreeBSD Foundation](https://www.freebsdfoundation.org/).
+
+* the [QGIS](https://qgis.org/en/site/about/sustaining_members.html) project,
+* the [Julia](https://github.com/sponsors/julialang) language,
+* the [R Foundation](https://www.r-project.org/foundation/) and
+* the [FreeBSD Foundation](https://www.freebsdfoundation.org/).
 
 We devote about 20% of our time to OSS, maintaining
-[dev containers](https://containers.dev), docker images and deployment templates
+
+* [dev containers](https://containers.dev),
+* [docker images](https://docs.docker.com/guides/docker-concepts/the-basics/what-is-an-image/)
+  and
+* deployment templates
+
 for Data Scientists.
 
 Our credo: Self-host your Data Science software stack: Use
