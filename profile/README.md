@@ -16,7 +16,7 @@ We devote about 20% of our time to OSS, maintaining
 
 for Data Scientists.
 
-Our credo: Self-host your Data Science software stack: Use
+Our credo: Self-host your Data Science software stack. Use
 [Træfik](https://github.com/b-data/docker-deployment-traefik),
 [GitLab](https://github.com/b-data/docker-deployment-gitlab-ce) and
 [Jupyter](https://github.com/b-data/docker-deployment-jupyter)
