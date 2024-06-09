@@ -17,7 +17,8 @@ Our credo: Self-host your Data Science software stack: Use
 ([JupyterLab](https://jupyter.org) +
 [code-server](https://github.com/coder/code-server)).
 
-Here, you can find everything you need!
+Here, you can find everything you need! 🔬 Check it out online at
+<https://demo.jupyter.b-data.ch>.
 
 ![Screenshot](https://raw.githubusercontent.com/b-data/jupyterlab-r-docker-stack/main/assets/screenshot.png)
 
@@ -27,6 +28,6 @@ See also Olivier Benz's ([benz0li](https://github.com/benz0li)'s) work on
 [GHC musl](https://github.com/benz0li/ghc-musl) – Unofficial binary
 distributions of GHC on Alpine Linux.
 
-The multi-arch (`linux/amd64`, `linux/arm64/v8`) docker image used to build the
-*statically linked* Linux amd64 and arm64 binary releases of
+ℹ️ The multi-arch (`linux/amd64`, `linux/arm64/v8`) docker image used to build
+the *statically linked* Linux amd64 and arm64 binary releases of
 [Pandoc](https://github.com/jgm/pandoc).
