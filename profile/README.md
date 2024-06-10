@@ -16,7 +16,12 @@ We devote about 20% of our time to OSS, maintaining
 
 for Data Scientists.
 
-Our credo: Self-host your Data Science software stack. Use
+🧑‍💻 We also provide [Data Science Dev Containers](https://github.com/b-data/data-science-devcontainers)
+for use with
+[VS Code](https://code.visualstudio.com/docs/devcontainers/containers) or
+[GitHub Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository?tool=webui#creating-a-codespace-for-a-repository).
+
+**Our credo: Self-host your Data Science software stack.** Use
 [Træfik](https://github.com/b-data/docker-deployment-traefik),
 [GitLab](https://github.com/b-data/docker-deployment-gitlab-ce) and
 [Jupyter](https://github.com/b-data/docker-deployment-jupyter)
