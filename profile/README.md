@@ -1,6 +1,6 @@
 # About
 
-As advocates of open-source software (OSS), we support
+As advocates of open-source software (OSS), we sponsor
 
 * the [QGIS](https://qgis.org/en/site/about/sustaining_members.html) project,
 * the [Julia](https://github.com/sponsors/julialang) language,
