@@ -7,7 +7,7 @@ As advocates of open-source software (OSS), we sponsor
 * the [R Foundation](https://www.r-project.org/foundation/) and
 * the [FreeBSD Foundation](https://www.freebsdfoundation.org/).
 
-We devote about 20% of our time to OSS, maintaining
+We devote about 20% of our time to OSS and maintain
 
 * [dev containers](https://containers.dev),
 * [docker images](https://docs.docker.com/guides/docker-concepts/the-basics/what-is-an-image/)
@@ -16,7 +16,7 @@ We devote about 20% of our time to OSS, maintaining
 
 for Data Scientists. 🧑‍💻 We also provide [Data Science Dev Containers](https://github.com/b-data/data-science-devcontainers)
 for use with
-[VS Code](https://code.visualstudio.com/docs/devcontainers/containers) or
+[VS Code](https://code.visualstudio.com/docs/devcontainers/containers) and
 [GitHub Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository?tool=webui#creating-a-codespace-for-a-repository).  
 🔥 Most images are also available as GPU accelerated
 ([`nvidia/cuda`](https://hub.docker.com/r/nvidia/cuda)-based) version.
@@ -28,7 +28,7 @@ for use with
 ([JupyterLab](https://jupyter.org) +
 [code-server](https://github.com/coder/code-server)).
 
-Here, you can find everything you need! 🔬 Check it out online at
+Here, you can find everything for free! 🔬 Check it out online at
 <https://demo.jupyter.b-data.ch>.
 
 ![Screenshot](https://raw.githubusercontent.com/b-data/jupyterlab-r-docker-stack/main/assets/screenshot.png)
