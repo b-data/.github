@@ -14,7 +14,7 @@ We devote about 20% of our time to OSS and maintain
   and
 * deployment templates
 
-for Data Scientists. 🧑‍💻 We also provide [Data Science Dev Containers](https://github.com/b-data/data-science-devcontainers)
+for Data Scientists 🧑‍💻. We also provide [Data Science Dev Containers](https://github.com/b-data/data-science-devcontainers)
 for use with
 [VS Code](https://code.visualstudio.com/docs/devcontainers/containers) and
 [GitHub Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository?tool=webui#creating-a-codespace-for-a-repository).  
