@@ -1,5 +1,8 @@
 # About
 
+b-data GmbH is a company specialised in Data Science services and GPU
+accelerated infrastructure.  
+
 As advocates of open-source software (OSS), we sponsor
 
 * the [QGIS](https://qgis.org/en/site/about/sustaining_members.html) project,
@@ -37,8 +40,7 @@ Here, you can find everything for free! 🔬 Check it out online at
 
 See also Olivier Benz's ([benz0li](https://github.com/benz0li)'s) work on
 [GHC musl](https://github.com/benz0li/ghc-musl) – Unofficial binary
-distributions of GHC on Alpine Linux.
-
+distributions of GHC on Alpine Linux.  
 ℹ️ The multi-arch (`linux/amd64`, `linux/arm64/v8`) docker image used to build
 the *statically linked* Linux amd64 and arm64 binary releases of
 [Pandoc](https://github.com/jgm/pandoc).
