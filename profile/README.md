@@ -1,6 +1,6 @@
 # About
 
-b-data is a company specialised in Data Science services and GPU accelerated
+b-data is a company specialised in Data Science services on GPU accelerated
 infrastructure.  
 
 As advocates of open-source software (OSS), we sponsor
