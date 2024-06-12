@@ -17,11 +17,15 @@ We devote about 20% of our time to OSS and maintain
   and
 * deployment templates
 
-for Data Scientists 🧑‍💻. We also provide [Data Science Dev Containers](https://github.com/b-data/data-science-devcontainers)
+for Data Scientists 🧑‍💻. Furthermore, we provide [Data Science Dev Containers](https://github.com/b-data/data-science-devcontainers)
 for use with
 [VS Code](https://code.visualstudio.com/docs/devcontainers/containers) and
 [GitHub Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository?tool=webui#creating-a-codespace-for-a-repository).  
-🔥 Furthermore, most images are available as GPU accelerated
+
+* 🎯 A unified IDE for the Data Science programming languages
+  [R](https://www.r-project.org), [Python](https://www.python.org),
+  [Julia](https://julialang.org) and [Mojo](https://www.modular.com/max/mojo).
+* 🔥 Most images are also available in a GPU accelerated
 ([`nvidia/cuda`](https://hub.docker.com/r/nvidia/cuda)-based) version.
 
 **Our credo: Self-host your Data Science software stack.** Use
@@ -38,7 +42,7 @@ Here, you can find everything for free! 🔬 Check it out online at
 
 ---
 
-See also Olivier Benz's ([benz0li](https://github.com/benz0li)'s) work on
+Besides, see Olivier's ([benz0li](https://github.com/benz0li)'s) work on
 [GHC musl](https://github.com/benz0li/ghc-musl) – Unofficial binary
 distributions of GHC on Alpine Linux.  
 ℹ️ The multi-arch (`linux/amd64`, `linux/arm64/v8`) docker image used to build
