@@ -1,7 +1,7 @@
 # About
 
-b-data GmbH is a company specialised in Data Science services and GPU
-accelerated infrastructure.  
+b-data is a company specialised in Data Science services and GPU accelerated
+infrastructure.  
 
 As advocates of open-source software (OSS), we sponsor
 
