@@ -17,7 +17,7 @@ We devote about 20% of our time to OSS and maintain
   and
 * deployment templates
 
-for Data Scientists 🧑‍💻. Furthermore, we provide [Data Science Dev Containers](https://github.com/b-data/data-science-devcontainers)
+for Data Scientists 🧑‍💻. Furthermore, we provide [Data Science dev containers](https://github.com/b-data/data-science-devcontainers)
 for use with
 [VS Code](https://code.visualstudio.com/docs/devcontainers/containers) and
 [GitHub Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository?tool=webui#creating-a-codespace-for-a-repository).  
@@ -28,7 +28,7 @@ for use with
 * 🔥 Most images are also available in a GPU accelerated
 ([`nvidia/cuda`](https://hub.docker.com/r/nvidia/cuda)-based) version.
 
-**Our credo: Self-host your Data Science software stack.** Use
+**Our credo: Self-host your Data Science software stack.** Based on
 [Træfik](https://github.com/b-data/docker-deployment-traefik),
 [GitLab](https://github.com/b-data/docker-deployment-gitlab-ce) and
 [Jupyter](https://github.com/b-data/docker-deployment-jupyter)
