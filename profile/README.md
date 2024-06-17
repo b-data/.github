@@ -17,10 +17,10 @@ We devote about 20% of our time to OSS and maintain
   and
 * deployment templates
 
-for Data Scientists 🧑‍💻. Furthermore, we provide [Data Science dev containers](https://github.com/b-data/data-science-devcontainers)
+for Data Scientists 🧑‍💻. We provide [Data Science dev containers](https://github.com/b-data/data-science-devcontainers)
 for use with
-[VS Code](https://code.visualstudio.com/docs/devcontainers/containers) and
-[GitHub Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository?tool=webui#creating-a-codespace-for-a-repository).  
+[VS Code](https://code.visualstudio.com/docs/devcontainers/containers) (local) and
+[GitHub Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository?tool=webui#creating-a-codespace-for-a-repository) (web).  
 
 * 🎯 A unified IDE for the Data Science programming languages
   [R](https://www.r-project.org), [Python](https://www.python.org),
@@ -28,15 +28,14 @@ for use with
 * 🔥 Most images are also available in a GPU accelerated
 ([`nvidia/cuda`](https://hub.docker.com/r/nvidia/cuda)-based) version.
 
-**Our credo: Self-host your Data Science software stack.** Based on
+**Our credo: Self-host your Data Science software stack**; based on
 [Træfik](https://github.com/b-data/docker-deployment-traefik),
 [GitLab](https://github.com/b-data/docker-deployment-gitlab-ce) and
 [Jupyter](https://github.com/b-data/docker-deployment-jupyter)
 ([JupyterLab](https://jupyter.org) +
 [code-server](https://github.com/coder/code-server)).
 
-Here, you can find everything for free! 🔬 Check it out online at
-<https://demo.jupyter.b-data.ch>.
+Here you can find everything you need – for free! 🔬 Check it out at <https://demo.jupyter.b-data.ch>.
 
 ![Screenshot](https://raw.githubusercontent.com/b-data/jupyterlab-r-docker-stack/main/assets/screenshot.png)
 
