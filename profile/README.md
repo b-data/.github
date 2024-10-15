@@ -26,7 +26,7 @@ for use with
 
 * 🎯 A unified IDE for the Data Science programming languages
   [R](https://www.r-project.org), [Python](https://www.python.org),
-  [Julia](https://julialang.org) and [Mojo](https://www.modular.com/max/mojo).
+  [Julia](https://julialang.org) and [MAX/Mojo](https://www.modular.com/max/mojo).
 * 🔥 Most images are also available in a GPU accelerated
 ([`nvidia/cuda`](https://hub.docker.com/r/nvidia/cuda)-based) version.
 
