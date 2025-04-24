@@ -44,8 +44,8 @@ Here you can find everything you need – for free! 🔬 Check it out at <https:
 ---
 
 Besides, see Olivier's ([benz0li](https://github.com/benz0li)'s) work on
-[GHC musl](https://github.com/benz0li/ghc-musl) – Unofficial binary
-distributions of GHC on Alpine Linux.  
+[GHC musl](https://github.com/benz0li/ghc-musl) – *Unofficial* and *untested*
+binary distributions of GHC on Alpine Linux.  
 ℹ️ The multi-arch (`linux/amd64`, `linux/arm64/v8`) docker image used to build
 the *statically linked* Linux amd64 and arm64 binary releases of
 [Pandoc](https://github.com/jgm/pandoc).
